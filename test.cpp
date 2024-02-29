@@ -11,6 +11,11 @@
 using namespace std;
 using namespace chrono;
 
+void insert(string combined_string)
+{
+    
+}
+
 int main()
 {
     std::vector<std::string> sets = {"set1", "set2"};
