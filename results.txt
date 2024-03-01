@@ -1,0 +1,77 @@
+FILE LOCATION : data/data/insert/set1/data_1.txt
+Set = set1, Txt = data_1.txt Total BST Insertion time: 36968 microseconds
+Set = set1, Txt = data_1.txt Total BST Search time: 20162 microseconds
+Set = set1, Txt = data_1.txt Total BST Deletion time: 23889 microseconds
+
+Set = set1, Txt = data_1.txt Total RBTree Insertion time: 33281 microseconds
+Set = set1, Txt = data_1.txt Total RBTree Search time: 15360 microseconds
+Set = set1, Txt = data_1.txt Total RBTree Deletion time: 85892 microseconds
+
+Set = set1, Txt = data_1.txt Total SplayTree Insertion time: 48972 microseconds
+Set = set1, Txt = data_1.txt Total SplayTree Search time: 28419 microseconds
+Set = set1, Txt = data_1.txt Total SplayTree Deletion time: 30738 microseconds
+
+FILE LOCATION : data/data/insert/set1/data_2.txt
+Set = set1, Txt = data_2.txt Total BST Insertion time: 77261 microseconds
+Set = set1, Txt = data_2.txt Total BST Search time: 49053 microseconds
+Set = set1, Txt = data_2.txt Total BST Deletion time: 58982 microseconds
+
+Set = set1, Txt = data_2.txt Total RBTree Insertion time: 76179 microseconds
+Set = set1, Txt = data_2.txt Total RBTree Search time: 32000 microseconds
+Set = set1, Txt = data_2.txt Total RBTree Deletion time: 156158 microseconds
+
+Set = set1, Txt = data_2.txt Total SplayTree Insertion time: 67198 microseconds
+Set = set1, Txt = data_2.txt Total SplayTree Search time: 54882 microseconds
+Set = set1, Txt = data_2.txt Total SplayTree Deletion time: 65617 microseconds
+
+FILE LOCATION : data/data/insert/set1/data_3.txt
+Set = set1, Txt = data_3.txt Total BST Insertion time: 187908 microseconds
+Set = set1, Txt = data_3.txt Total BST Search time: 122260 microseconds
+Set = set1, Txt = data_3.txt Total BST Deletion time: 182952 microseconds
+
+Set = set1, Txt = data_3.txt Total RBTree Insertion time: 230716 microseconds
+Set = set1, Txt = data_3.txt Total RBTree Search time: 106363 microseconds
+Set = set1, Txt = data_3.txt Total RBTree Deletion time: 444635 microseconds
+
+Set = set1, Txt = data_3.txt Total SplayTree Insertion time: 147938 microseconds
+Set = set1, Txt = data_3.txt Total SplayTree Search time: 141420 microseconds
+Set = set1, Txt = data_3.txt Total SplayTree Deletion time: 138151 microseconds
+
+FILE LOCATION : data/data/insert/set2/data_1.txt
+Set = set2, Txt = data_1.txt Total BST Insertion time: 7634457 microseconds
+Set = set2, Txt = data_1.txt Total BST Search time: 3702031 microseconds
+Set = set2, Txt = data_1.txt Total BST Deletion time: 3549255 microseconds
+
+Set = set2, Txt = data_1.txt Total RBTree Insertion time: 29099 microseconds
+Set = set2, Txt = data_1.txt Total RBTree Search time: 8971 microseconds
+Set = set2, Txt = data_1.txt Total RBTree Deletion time: 51702 microseconds
+
+Set = set2, Txt = data_1.txt Total SplayTree Insertion time: 9341 microseconds
+Set = set2, Txt = data_1.txt Total SplayTree Search time: 10167 microseconds
+Set = set2, Txt = data_1.txt Total SplayTree Deletion time: 9092 microseconds
+
+FILE LOCATION : data/data/insert/set2/data_2.txt
+Set = set2, Txt = data_2.txt Total BST Insertion time: 31337916 microseconds
+Set = set2, Txt = data_2.txt Total BST Search time: 14798207 microseconds
+Set = set2, Txt = data_2.txt Total BST Deletion time: 14397364 microseconds
+
+Set = set2, Txt = data_2.txt Total RBTree Insertion time: 61665 microseconds
+Set = set2, Txt = data_2.txt Total RBTree Search time: 18157 microseconds
+Set = set2, Txt = data_2.txt Total RBTree Deletion time: 113907 microseconds
+
+Set = set2, Txt = data_2.txt Total SplayTree Insertion time: 21295 microseconds
+Set = set2, Txt = data_2.txt Total SplayTree Search time: 21254 microseconds
+Set = set2, Txt = data_2.txt Total SplayTree Deletion time: 18790 microseconds
+
+FILE LOCATION : data/data/insert/set2/data_3.txt
+Set = set2, Txt = data_3.txt Total BST Insertion time: 132386352 microseconds
+Set = set2, Txt = data_3.txt Total BST Search time: 62001861 microseconds
+Set = set2, Txt = data_3.txt Total BST Deletion time: 65274271 microseconds
+
+Set = set2, Txt = data_3.txt Total RBTree Insertion time: 132442 microseconds
+Set = set2, Txt = data_3.txt Total RBTree Search time: 38917 microseconds
+Set = set2, Txt = data_3.txt Total RBTree Deletion time: 251411 microseconds
+
+Set = set2, Txt = data_3.txt Total SplayTree Insertion time: 41422 microseconds
+Set = set2, Txt = data_3.txt Total SplayTree Search time: 42740 microseconds
+Set = set2, Txt = data_3.txt Total SplayTree Deletion time: 38577 microseconds
