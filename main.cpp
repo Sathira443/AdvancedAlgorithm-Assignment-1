@@ -23,7 +23,6 @@ int main()
             std::string combined_string_insert = "data/data/insert/" + set + "/" + txt_file;
             std::string combined_string_search = "data/data/search/" + set + "/" + txt_file;
             std::string combined_string_delete = "data/data/delete/" + set + "/" + txt_file;
-            // std::cout << "FILE LOCATION : "<< combined_string << std::endl;
 
             BST bst;
             RBTree rbtree;
@@ -77,7 +76,7 @@ int main()
             /*
             =============BST Search===============
             */
-            data_file_search.open(combined_string_search);
+            // data_file_search.open(combined_string_search);
             auto start_bst_search = high_resolution_clock::now();
             while (getline(data_file_search, line))
             {
@@ -89,7 +88,6 @@ int main()
                     if (!next_line.eof())
                     {
                         long long int number = stoll(number_str);
-                        // cout << "Number is: " << number << " number" << endl;
                         bst.contains(number);
                     }
                 }
@@ -101,7 +99,6 @@ int main()
             /*
             =============BST Delete===============
             */
-            data_file_delete.open(combined_string_delete);
             auto start_bst_delete = high_resolution_clock::now();
             while (getline(data_file_delete, line))
             {
@@ -113,7 +110,6 @@ int main()
                     if (!next_line.eof())
                     {
                         long long int number = stoll(number_str);
-                        // cout << "Number is: " << number << " number" << endl;
                         bst.del(number);
                     }
                 }
